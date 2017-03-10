@@ -1,0 +1,22 @@
+lastAccountName: DawdleSauce
+timestamps:
+  login: 1488895366439
+  logout: 1488895935226
+  lastteleport: 1488894392372
+ipAddress: 119.77.247.250
+lastlocation:
+  world: survival_lobby
+  x: -5.989794310743086
+  y: 141.0625
+  z: 24.230762997227348
+  yaw: -187.95413
+  pitch: 21.900002
+logoutlocation:
+  world: survival_lobby
+  x: -3.790889277206279
+  y: 145.40654737113994
+  z: 23.69262830383377
+  yaw: 6.5650635
+  pitch: 25.759186
+afk: false
+money: '-10000.0'

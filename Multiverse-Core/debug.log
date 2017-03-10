@@ -1,0 +1,334 @@
+2017-02-23 14:10:43 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-23 14:10:43 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 14:10:43 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 14:10:43 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2017-02-23 14:10:43 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2017-02-23 14:10:43 [INFO] [Multiverse-Core] New Spawn for 'survival_world_nether' is Located at: survival_world_nether:0.00,90.00,0.00:0.00:0.00
+2017-02-23 14:10:43 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 14:10:43 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2017-02-23 14:10:43 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2017-02-23 14:10:43 [INFO] [Multiverse-Core] New Spawn for 'survival_world_the_end' is Located at: survival_world_the_end:0.00,61.00,0.00:0.00:0.00
+2017-02-23 14:10:43 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 14:10:43 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 14:10:43 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 14:10:43 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2017-02-23 14:12:51 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-23 14:12:51 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 14:12:51 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 14:12:51 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 14:12:51 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2017-02-23 14:19:26 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-23 14:19:26 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 14:19:26 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 14:19:26 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 14:19:26 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2017-02-23 14:20:56 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: null
+2017-02-23 14:21:33 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: null
+2017-02-23 14:21:45 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: null
+2017-02-23 14:26:11 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 14:26:12 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 14:26:13 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 14:26:14 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-23 14:26:14 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-23 14:26:14 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: 6068073658822131151
+2017-02-23 14:26:14 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-23 14:30:07 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-23 14:30:07 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 14:30:07 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 14:30:07 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 14:30:07 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-23 14:30:09 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-23 14:30:09 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: 6068073658822131151
+2017-02-23 14:30:11 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-23 16:49:25 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-23 16:49:25 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 16:49:25 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 16:49:25 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 16:49:25 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-23 16:49:26 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-23 16:49:28 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: 6068073658822131151
+2017-02-23 16:49:29 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-23 17:18:05 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-23 17:18:05 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 17:18:05 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 17:18:05 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 17:18:05 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-23 17:18:05 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-23 17:18:07 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: 6068073658822131151
+2017-02-23 17:18:08 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-23 17:23:27 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 17:23:28 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 17:23:29 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 17:23:30 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-23 17:23:30 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-23 17:23:30 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: 6068073658822131151
+2017-02-23 17:23:30 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-23 17:24:29 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-23 17:24:30 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 17:24:30 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 17:24:30 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 17:24:30 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-23 17:24:30 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-23 17:24:32 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: 6068073658822131151
+2017-02-23 17:24:33 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-23 17:28:11 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-23 17:28:11 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 17:28:11 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 17:28:11 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 17:28:11 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-23 17:28:12 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-23 17:28:13 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: 6068073658822131151
+2017-02-23 17:28:14 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-23 17:29:37 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-23 17:29:37 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 17:29:37 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 17:29:37 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 17:29:37 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-23 17:29:38 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-23 17:29:39 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: 6068073658822131151
+2017-02-23 17:29:41 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-23 17:31:33 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-23 17:31:33 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 17:31:33 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 17:31:33 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 17:31:33 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-23 17:31:33 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-23 17:31:35 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: 6068073658822131151
+2017-02-23 17:31:37 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-23 18:06:17 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-23 18:06:17 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 18:06:17 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 18:06:17 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 18:06:17 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-23 18:06:18 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-23 18:06:19 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: 6068073658822131151
+2017-02-23 18:06:20 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-23 18:10:00 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-23 18:10:01 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 18:10:01 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 18:10:01 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 18:10:01 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-23 18:10:01 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-23 18:10:03 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: 6068073658822131151
+2017-02-23 18:10:04 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-23 18:24:02 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-23 18:24:02 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 18:24:02 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 18:24:02 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 18:24:02 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-23 18:24:03 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-23 18:24:04 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: 6068073658822131151
+2017-02-23 18:24:06 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-23 18:26:46 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-23 18:26:47 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 18:26:47 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 18:26:47 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 18:26:47 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-23 18:26:47 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-23 18:26:49 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: 6068073658822131151
+2017-02-23 18:26:50 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-23 18:34:52 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-23 18:34:52 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 18:34:52 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 18:34:52 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 18:34:52 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-23 18:34:53 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-23 18:34:54 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: 6068073658822131151
+2017-02-23 18:34:55 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-23 18:54:20 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-23 18:54:20 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 18:54:21 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 18:54:22 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 18:54:22 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-23 18:54:22 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-23 18:54:23 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: 6068073658822131151
+2017-02-23 18:54:23 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-23 19:07:49 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-23 19:07:50 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 19:07:50 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 19:07:50 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 19:07:50 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-23 19:07:50 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-23 19:07:52 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: 6068073658822131151
+2017-02-23 19:07:53 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-23 19:14:18 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-23 19:14:18 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 19:14:18 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 19:14:18 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 19:14:18 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-23 19:14:19 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-23 19:14:20 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: 6068073658822131151
+2017-02-23 19:14:22 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-23 19:16:36 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-23 19:16:36 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 19:16:36 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 19:16:36 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 19:16:36 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-23 19:16:37 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-23 19:16:38 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: 6068073658822131151
+2017-02-23 19:16:40 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-23 19:48:18 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-23 19:48:18 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 19:48:19 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 19:48:19 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 19:48:19 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-23 19:48:19 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-23 19:48:21 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: 6068073658822131151
+2017-02-23 19:48:22 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-23 20:01:26 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-23 20:01:26 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 20:01:27 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 20:01:27 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 20:01:27 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-23 20:01:27 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-23 20:01:28 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: 6068073658822131151
+2017-02-23 20:01:30 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-23 20:52:26 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-23 20:52:27 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-23 20:52:27 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 20:52:27 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-23 20:52:27 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-23 20:52:27 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-23 20:52:29 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: 6068073658822131151
+2017-02-23 20:52:30 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-23 21:38:30 [INFO] [Multiverse-Core] World 'lobby' was unloaded from memory.
+2017-02-23 21:38:30 [INFO] [Multiverse-Core] World 'lobby' was removed from config.yml
+2017-02-23 21:38:30 [INFO] [Multiverse-Core] World lobby was DELETED.
+2017-02-23 21:42:19 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: null
+2017-02-23 21:54:39 [INFO] [Multiverse-Core] World 'build_world' was unloaded from memory.
+2017-02-23 21:54:39 [INFO] [Multiverse-Core] World 'build_world' was removed from config.yml
+2017-02-23 21:54:39 [INFO] [Multiverse-Core] World build_world was DELETED.
+2017-02-23 21:54:54 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & generator: PlotSquared
+2017-02-23 21:54:57 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2017-02-23 21:54:57 [WARNING] [Multiverse-Core] Original Location: X: -204 Y: 64 Z: 236 P: 0 Y: 0 
+2017-02-23 21:54:57 [INFO] [Multiverse-Core] New Spawn for 'build_world' is Located at: build_world:-202.50,65.00,236.50:0.00:0.00
+2017-02-24 11:35:51 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-24 11:35:51 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-24 11:35:51 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-24 11:35:51 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-24 11:35:51 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-24 11:35:53 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-24 11:35:53 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: -1482406616788016194 & generator: PlotSquared
+2017-02-24 11:35:54 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-24 11:41:06 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-24 11:41:07 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-24 11:41:08 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-24 11:41:08 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-24 11:41:09 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-24 11:41:09 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: -1482406616788016194 & generator: PlotSquared
+2017-02-24 11:41:09 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-24 11:51:35 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-24 11:51:36 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-24 11:51:36 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-24 11:51:36 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-24 11:51:36 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-24 11:51:37 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-24 11:51:37 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: -1482406616788016194 & generator: PlotSquared
+2017-02-24 11:51:39 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-24 19:58:42 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-24 19:58:42 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-24 19:58:42 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-24 19:58:42 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-24 19:58:42 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-24 19:58:44 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-24 19:58:45 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: -1482406616788016194 & generator: PlotSquared
+2017-02-24 19:58:46 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-25 08:47:25 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-25 08:47:25 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-25 08:47:25 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-25 08:47:25 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-25 08:47:25 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-25 08:47:27 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-25 08:47:27 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: -1482406616788016194 & generator: PlotSquared
+2017-02-25 08:47:28 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-25 11:39:57 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-25 11:39:58 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-25 11:39:58 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-25 11:39:58 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-25 11:39:58 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-25 11:39:59 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-25 11:40:00 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: -1482406616788016194 & generator: PlotSquared
+2017-02-25 11:40:01 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-25 11:41:16 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-25 11:41:17 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-25 11:41:17 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-25 11:41:17 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-25 11:41:17 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-25 11:41:18 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-25 11:41:19 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: -1482406616788016194 & generator: PlotSquared
+2017-02-25 11:41:20 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-25 11:43:09 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-25 11:43:09 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-25 11:43:09 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-25 11:43:09 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-25 11:43:09 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-25 11:43:11 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-25 11:43:12 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: -1482406616788016194 & generator: PlotSquared
+2017-02-25 11:43:13 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-02-28 13:03:03 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-02-28 13:03:03 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-02-28 13:03:03 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-02-28 13:03:03 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-02-28 13:03:03 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-02-28 13:03:05 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-02-28 13:03:06 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: -1482406616788016194 & generator: PlotSquared
+2017-02-28 13:03:07 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-03-02 10:29:18 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-03-02 10:29:18 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -7512184644815914080
+2017-03-02 10:29:18 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2017-03-02 10:29:18 [WARNING] [Multiverse-Core] Original Location: X: -240 Y: 64 Z: 256 P: 0 Y: 0 
+2017-03-02 10:29:18 [INFO] [Multiverse-Core] New Spawn for 'survival_world' is Located at: survival_world:-231.50,67.00,263.50:0.00:0.00
+2017-03-02 10:29:18 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-03-02 10:29:18 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-03-02 10:29:18 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-03-02 10:29:20 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-03-02 10:29:21 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: -1482406616788016194 & generator: PlotSquared
+2017-03-02 10:29:22 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-03-02 10:37:58 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-03-02 10:37:58 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -6908588417907162784
+2017-03-02 10:37:58 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-03-02 10:37:58 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-03-02 10:37:58 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-03-02 10:37:59 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-03-02 10:37:59 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: -1482406616788016194 & generator: PlotSquared
+2017-03-02 10:38:01 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-03-03 20:21:33 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-03-03 20:21:34 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -6908588417907162784
+2017-03-03 20:21:34 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-03-03 20:21:34 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-03-03 20:21:34 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-03-03 20:21:35 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-03-03 20:21:35 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: -1482406616788016194 & generator: PlotSquared
+2017-03-03 20:21:36 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-03-03 20:37:33 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-03-03 20:37:33 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -6908588417907162784
+2017-03-03 20:37:33 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-03-03 20:37:33 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-03-03 20:37:33 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-03-03 20:37:35 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-03-03 20:37:35 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: -1482406616788016194 & generator: PlotSquared
+2017-03-03 20:37:36 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-03-03 21:51:16 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-03-03 21:51:16 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -6908588417907162784
+2017-03-03 21:51:17 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-03-03 21:51:18 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-03-03 21:51:18 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-03-03 21:51:19 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-03-03 21:51:19 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: -1482406616788016194 & generator: PlotSquared
+2017-03-03 21:51:19 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-03-03 22:27:05 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-03-03 22:27:05 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -6908588417907162784
+2017-03-03 22:27:06 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-03-03 22:27:06 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-03-03 22:27:06 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-03-03 22:27:07 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-03-03 22:27:07 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: -1482406616788016194 & generator: PlotSquared
+2017-03-03 22:27:09 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2017-03-09 12:45:49 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2017-03-09 12:45:49 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world' - Env: NORMAL - Type: NORMAL & seed: -6908588417907162784
+2017-03-09 12:45:49 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_nether' - Env: NETHER - Type: NORMAL & seed: -5545552220758640454
+2017-03-09 12:45:49 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_world_the_end' - Env: THE_END - Type: NORMAL & seed: -5545552220758640454
+2017-03-09 12:45:49 [INFO] [Multiverse-Core] Loading World & Settings - 'survival_lobby' - Env: NORMAL - Type: NORMAL & seed: -8261858666343506887
+2017-03-09 12:45:51 [INFO] [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: FLAT & seed: 4875864479908697572
+2017-03-09 12:45:51 [INFO] [Multiverse-Core] Loading World & Settings - 'build_world' - Env: NORMAL - Type: NORMAL & seed: -1482406616788016194 & generator: PlotSquared
+2017-03-09 12:45:53 [INFO] [Multiverse-Core] 6 - World(s) loaded.

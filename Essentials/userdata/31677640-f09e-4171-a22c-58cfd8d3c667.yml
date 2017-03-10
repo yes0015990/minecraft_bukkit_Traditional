@@ -1,0 +1,21 @@
+lastAccountName: Small_slag
+timestamps:
+  login: 1488973238837
+  logout: 1488976967527
+  lastteleport: 1488893230673
+ipAddress: 61.63.113.92
+lastlocation:
+  world: survival_lobby
+  x: -1.8484300031373468
+  y: 141.0
+  z: 20.668335652399637
+  yaw: -135.44962
+  pitch: 25.950048
+logoutlocation:
+  world: build_world
+  x: 74.45810630904168
+  y: 65.0625
+  z: 266.38751388818025
+  yaw: -180.59595
+  pitch: 14.399976
+afk: false

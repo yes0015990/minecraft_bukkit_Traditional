@@ -1,0 +1,21 @@
+# Language, supported en, hu, fr, cz, nl
+Locale: en
+Check-update: true
+Decimal-places: 2
+Farming:
+  Disable-spawner-farming: false
+  Disable-egg-farming: false
+Global-settings:
+  Money-multiplier: 1
+  Disable-functions-on-these-worlds:
+  - world_the_end
+  Disable-functions-in-creative-mode: false
+Hook:
+  MobArena:
+    Enabled: false
+    Disable-functions-when-player-is-fighting-in-arena: true
+  MineChart:
+    Enabled: true
+    Graphs:
+      MOB-KILLS: true
+      COLLECTED-MONEY: true

@@ -1,0 +1,20 @@
+lastAccountName: aoiringo
+timestamps:
+  login: 1488808872284
+  logout: 1488809098125
+ipAddress: 111.255.245.24
+lastlocation:
+  world: build_world
+  x: 64.96232868523876
+  y: 80.0
+  z: 313.51410713916573
+  yaw: 259.79498
+  pitch: 32.549885
+money: '0.0'
+logoutlocation:
+  world: build_world
+  x: 80.3000000119209
+  y: 90.20000004768372
+  z: 298.30000001192093
+  yaw: 132.58084
+  pitch: 46.800014

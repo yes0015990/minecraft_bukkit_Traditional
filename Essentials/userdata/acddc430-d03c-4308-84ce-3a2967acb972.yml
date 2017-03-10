@@ -1,0 +1,22 @@
+lastAccountName: PPbaby
+timestamps:
+  login: 1488724593175
+  logout: 1488727291638
+  lastteleport: 1488724767437
+ipAddress: 124.6.1.241
+lastlocation:
+  world: build_world
+  x: 74.13304093351029
+  y: 65.0625
+  z: 276.3139043809403
+  yaw: -118.046875
+  pitch: 7.8000193
+logoutlocation:
+  world: build_world
+  x: 66.27689593664508
+  y: 65.0
+  z: 316.51272219230157
+  yaw: -159.15002
+  pitch: 19.050007
+afk: false
+money: '-498.61'

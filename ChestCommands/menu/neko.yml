@@ -1,0 +1,81 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&e操作簡介和快速介面'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 6
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'neko'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+  open-with-item:  
+   id: wool:1
+   left-click: false
+   right-click: true
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+spawncmd:
+  COMMAND: 'spawn'
+  NAME: '&e出生點'
+  LORE:
+    - '點擊這個會傳會出生點哦'
+  ID: bed
+  POSITION-X: 1
+  POSITION-Y: 1
+
+Homecmd:
+  COMMAND: 'home'
+  NAME: '&e回家'
+  LORE:
+   - '花費50即可'
+   - '傳送回家'
+  PRICE: 30
+  ICON-ITEM: 355
+  POSITION-X: 1
+  POSITION-Y: 3
+ 
+shop:
+  NAME: '商店'
+  LORE:
+    - '這裡有很多東西'
+    - '快來選購哦'
+  ID: Emerald
+  POSITION-X: 3
+  POSITION-Y: 3
+
+
+Money:
+  COMMAND : "balance"
+  NAME : "金錢"
+  LORE:
+    - "點擊這可以查詢金錢哦"
+  ID: Gold Ingot
+  POSITION-X: 3
+  POSITION-Y: 1
+
+
+

@@ -1,0 +1,21 @@
+lastAccountName: NANA__Emy
+timestamps:
+  login: 1488976312119
+  logout: 1488977088326
+  lastteleport: 1488894280772
+ipAddress: 219.69.71.59
+lastlocation:
+  world: survival_lobby
+  x: -1.300000011920929
+  y: 141.0
+  z: 20.847053973885185
+  yaw: -134.92715
+  pitch: 27.379572
+money: '1.21'
+logoutlocation:
+  world: build_world
+  x: 81.9633898322004
+  y: 73.61769684561418
+  z: 331.309537582631
+  yaw: -256.312
+  pitch: 3.5455987

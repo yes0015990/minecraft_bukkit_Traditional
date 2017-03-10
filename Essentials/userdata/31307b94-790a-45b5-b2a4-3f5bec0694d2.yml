@@ -1,0 +1,22 @@
+lastAccountName: qwe70638
+timestamps:
+  login: 1488804149686
+  logout: 1488807549926
+  lastteleport: 1488637539649
+ipAddress: 114.46.237.25
+lastlocation:
+  world: build_world
+  x: 81.62810550186919
+  y: 78.51006780421034
+  z: 284.0001226592378
+  yaw: -206.7984
+  pitch: 25.050024
+money: '0.0'
+logoutlocation:
+  world: build_world
+  x: 82.58217874110542
+  y: 76.0
+  z: 298.8254909782492
+  yaw: -132.87894
+  pitch: -5.5609136
+afk: false

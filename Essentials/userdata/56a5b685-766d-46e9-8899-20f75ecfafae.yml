@@ -1,0 +1,21 @@
+lastAccountName: Brave_Penguin
+timestamps:
+  login: 1487854392839
+  logout: 1487853827846
+  lastteleport: 1487857745065
+ipAddress: 118.168.101.20
+lastlocation:
+  world: survival_world
+  x: 198.30000001192093
+  y: 41.0
+  z: 113.32428353142596
+  yaw: -270.51697
+  pitch: 50.72397
+logoutlocation:
+  world: survival_world
+  x: 261.30000001192093
+  y: 63.0
+  z: 89.9677904813121
+  yaw: -336.29047
+  pitch: 19.807919
+money: '36.75'

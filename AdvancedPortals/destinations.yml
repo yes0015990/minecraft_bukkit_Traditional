@@ -1,0 +1,40 @@
+# 
+#  ExampleDestination:
+#    world: it will be the world name
+#    pos:
+#      X:
+#      Y:
+#      Z:
+
+lobby:
+  world: lobby
+  pos:
+    X: 1150.2442055504748
+    Y: 4.0
+    Z: 715.6081884111462
+    pitch: 0.0
+    yaw: 0.0
+buildworld:
+  world: build_world
+  pos:
+    X: 56.8159110389371
+    Y: 65.0
+    Z: 245.14204699651208
+    pitch: -0.29999414
+    yaw: -88.35
+survivallobby:
+  world: survival_lobby
+  pos:
+    X: 14.218171759464754
+    Y: 131.0
+    Z: 4.852484938362158
+    pitch: 15.000068
+    yaw: 351.75046
+survival_world_standard:
+  world: survival_world
+  pos:
+    X: -235.0012403290616
+    Y: 70.0
+    Z: 269.24131736398584
+    pitch: 25.800009
+    yaw: -90.449974

@@ -1,0 +1,22 @@
+lastAccountName: wendy1219
+timestamps:
+  login: 1488893909536
+  lastteleport: 1488894015271
+  logout: 1488895992779
+ipAddress: 1.163.24.232
+lastlocation:
+  world: survival_lobby
+  x: 2.3711249127488756
+  y: 131.0
+  z: 16.9671469022824
+  yaw: 59.600677
+  pitch: 8.98901
+money: '-478.75'
+logoutlocation:
+  world: survival_lobby
+  x: -5.240961023041776
+  y: 144.30568920740785
+  z: 23.77784552279338
+  yaw: -357.92627
+  pitch: 17.908958
+afk: false

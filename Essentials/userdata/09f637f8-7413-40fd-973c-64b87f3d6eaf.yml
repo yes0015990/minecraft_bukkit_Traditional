@@ -1,0 +1,22 @@
+lastAccountName: Pineapple_0201
+timestamps:
+  login: 1488370768067
+  logout: 1488373181571
+  lastteleport: 1488372496634
+ipAddress: 118.233.215.169
+lastlocation:
+  world: lobby
+  x: 1249.5311897899646
+  y: 36.868788474463834
+  z: 773.7567374132664
+  yaw: 187.45996
+  pitch: 33.32008
+logoutlocation:
+  world: build_world
+  x: 31.81150835563279
+  y: 97.37535273867357
+  z: 319.92115705464596
+  yaw: 185.90796
+  pitch: 17.120169
+money: '11.49'
+afk: false

@@ -1,0 +1,15 @@
+{
+  "group": "",
+  "location": {
+    "world": "build_world",
+    "x": 80.45327182927487,
+    "y": 83.68772865237779,
+    "z": 304.67471537384233,
+    "yaw": 179.39178,
+    "pitch": 30.750006
+  },
+  "operator": true,
+  "can-fly": true,
+  "walk-speed": 0.19998403,
+  "fly-speed": 0.099992014
+}

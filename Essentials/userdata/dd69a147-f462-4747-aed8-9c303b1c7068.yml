@@ -1,0 +1,22 @@
+lastAccountName: AppleNi_0806
+timestamps:
+  login: 1488895296291
+  lastteleport: 1488894425023
+  logout: 1488896020378
+ipAddress: 118.233.215.169
+lastlocation:
+  world: build_world
+  x: 90.30000001192093
+  y: 75.0
+  z: 279.47333626934653
+  yaw: 349.3496
+  pitch: 32.09988
+logoutlocation:
+  world: survival_lobby
+  x: -10.507294903075785
+  y: 145.0
+  z: 30.242058034483524
+  yaw: 264.9065
+  pitch: 36.8999
+money: '-978.13'
+afk: false

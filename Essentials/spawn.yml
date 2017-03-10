@@ -1,0 +1,8 @@
+spawns: 
+  default: 
+    world: lobby
+    x: 1154.0
+    y: 4.0
+    z: 717.0
+    yaw: -51.0
+    pitch: 11.849998

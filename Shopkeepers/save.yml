@@ -1,0 +1,4257 @@
+'1':
+  uniqueId: 51e5c52c-6474-49b5-820a-5fb7c87d0072
+  name: Shop
+  world: build_world
+  x: 65
+  y: 65
+  z: 320
+  type: admin
+  object: villager
+  uuid: 2358d0b0-ea77-4247-9d48-c7e97705406b
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD_ORE
+        amount: 16
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 16
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 36
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD_BLOCK
+'2':
+  uniqueId: 64194885-73d5-45be-8e9d-9a17d5c1069d
+  name: Shop
+  world: build_world
+  x: 60
+  y: 65
+  z: 320
+  type: admin
+  object: villager
+  uuid: 0d1cd4dc-84e5-4d61-a687-c0f72dfa5070
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_ORE
+        amount: 16
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 16
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 36
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BLOCK
+'3':
+  uniqueId: c624396c-9c7b-4888-a1be-5e8492d440ef
+  name: Shop
+  world: build_world
+  x: 55
+  y: 65
+  z: 320
+  type: admin
+  object: villager
+  uuid: f028f3d1-8ed2-449e-96d6-9ab1cc88882b
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL_ORE
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 64
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 9
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL_BLOCK
+'4':
+  uniqueId: 36f466f0-738b-40fe-988f-4b1c1755882c
+  name: Shop
+  world: build_world
+  x: 55
+  y: 65
+  z: 315
+  type: admin
+  object: villager
+  uuid: 99ae5fd8-3f31-48bc-921e-973f2f5ae41b
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_ORE
+        amount: 32
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+        amount: 32
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BLOCK
+        amount: 2
+'5':
+  uniqueId: d35227a6-3e07-49a4-a63b-6241c3c4252c
+  name: Shop
+  world: build_world
+  x: 55
+  y: 65
+  z: 310
+  type: admin
+  object: villager
+  uuid: 612aacf0-8d7e-415f-81cc-d7aa12d0971c
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LAPIS_ORE
+        amount: 32
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 4
+        amount: 32
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LAPIS_BLOCK
+        amount: 2
+'6':
+  uniqueId: d37e9013-a159-41d7-b294-6ee019c51925
+  name: Shop
+  world: build_world
+  x: 55
+  y: 65
+  z: 305
+  type: admin
+  object: villager
+  uuid: 9ffe0d52-a6e2-45bf-b185-f672f0737743
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: REDSTONE_ORE
+        amount: 32
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: REDSTONE
+        amount: 32
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: REDSTONE_BLOCK
+        amount: 2
+'7':
+  uniqueId: 220565b5-c05a-4953-bf17-ca52b5da097c
+  name: Shop
+  world: build_world
+  x: 55
+  y: 65
+  z: 300
+  type: admin
+  object: villager
+  uuid: a6f07c2a-7ce7-49e6-8bac-bb36c2cc09af
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 40
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_ORE
+        amount: 16
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+        amount: 16
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 2
+'8':
+  uniqueId: 24bcd5f8-1a73-43fb-a169-27ee98f5f352
+  name: Shop
+  world: build_world
+  x: 55
+  y: 65
+  z: 295
+  type: admin
+  object: villager
+  uuid: d83c8041-7bc6-419b-a893-a88b9fd9292e
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: QUARTZ_ORE
+        amount: 16
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: QUARTZ
+        amount: 16
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: QUARTZ_BLOCK
+'9':
+  uniqueId: 845c4e55-898f-4cd4-8ed3-5ac16693fd54
+  name: Shop
+  world: build_world
+  x: 55
+  y: 65
+  z: 289
+  type: admin
+  object: villager
+  uuid: 48ce0db7-43d2-47c3-8a49-cce7da1950d4
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: OBSIDIAN
+        amount: 16
+'10':
+  uniqueId: 6420b2d3-7506-40cf-bc4a-55bbd043de5d
+  name: Shop
+  world: build_world
+  x: 55
+  y: 65
+  z: 284
+  type: admin
+  object: villager
+  uuid: 01285a77-9053-4081-b60a-efa4b9e5f3ab
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        damage: 1
+        amount: 64
+'11':
+  uniqueId: bb5b39cc-c405-4d5a-9928-3a415f807d0e
+  name: Shop
+  world: build_world
+  x: 55
+  y: 65
+  z: 279
+  type: admin
+  object: villager
+  uuid: 4ce801ed-5268-444c-92b8-431b31dd751f
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        damage: 3
+        amount: 64
+'12':
+  uniqueId: 9b1f7664-bfcf-4aee-80f1-1bdacc59177d
+  name: Shop
+  world: build_world
+  x: 55
+  y: 65
+  z: 274
+  type: admin
+  object: villager
+  uuid: 767ade80-9fd7-4f1b-b321-65a6d5b70b89
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        damage: 5
+        amount: 64
+'13':
+  uniqueId: 7264d93c-c18f-4745-b411-74fb931211bc
+  name: Shop
+  world: build_world
+  x: 55
+  y: 65
+  z: 269
+  type: admin
+  object: villager
+  uuid: 77d9f456-4fcf-4153-8826-70f2eb97c848
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+'14':
+  uniqueId: 80e1fb31-dfc2-4e21-998d-ebaf245a1d5b
+  name: Shop
+  world: build_world
+  x: 61
+  y: 65
+  z: 268
+  type: admin
+  object: villager
+  uuid: b9b7cd42-66cf-4e2f-ace0-742a9176b329
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAND
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAND
+        damage: 1
+        amount: 64
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GRAVEL
+        amount: 64
+'15':
+  uniqueId: b4b5146e-00a7-475e-aeb1-04d269db499f
+  name: Shop
+  world: build_world
+  x: 79
+  y: 65
+  z: 268
+  type: admin
+  object: villager
+  uuid: cc9549e9-61b5-4c72-8c5e-11b75dc894e3
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GRASS
+        amount: 16
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIRT
+        amount: 64
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIRT
+        damage: 1
+        amount: 32
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIRT
+        damage: 2
+        amount: 16
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MYCEL
+        amount: 16
+'16':
+  uniqueId: 6dc61995-a523-4d8e-92cf-740be7691a9d
+  name: Shop
+  world: build_world
+  x: 88
+  y: 65
+  z: 268
+  type: admin
+  object: villager
+  uuid: 581cc3d8-b7c9-4868-a55b-e46574099f45
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD
+        damage: 5
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG_2
+        damage: 1
+        amount: 64
+'17':
+  uniqueId: 9587d944-a237-446c-9704-62dc40e6a77a
+  name: Shop
+  world: build_world
+  x: 93
+  y: 65
+  z: 269
+  type: admin
+  object: villager
+  uuid: 0a5db512-8193-4a09-978e-1ff799234260
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD
+        damage: 2
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        damage: 2
+        amount: 64
+'18':
+  uniqueId: 7034bf10-2782-4bd8-89d4-ccfc2f43a682
+  name: Shop
+  world: build_world
+  x: 93
+  y: 65
+  z: 274
+  type: admin
+  object: villager
+  uuid: 54e2ef74-8498-4576-8359-71e04d85c575
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        amount: 64
+'19':
+  uniqueId: 14fd3889-ad02-4b6c-b9f3-e0f45d5f7e8c
+  name: Shop
+  world: build_world
+  x: 93
+  y: 65
+  z: 279
+  type: admin
+  object: villager
+  uuid: 098e6794-87c5-418f-ac2c-64cf85628802
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD
+        damage: 1
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        damage: 1
+        amount: 64
+'20':
+  uniqueId: d8501402-0ffd-4fad-b595-7d9efc16cc9c
+  name: Shop
+  world: build_world
+  x: 93
+  y: 65
+  z: 284
+  type: admin
+  object: villager
+  uuid: 759733b6-df76-4b56-94f2-e0da6d738432
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD
+        damage: 3
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        damage: 3
+        amount: 64
+'21':
+  uniqueId: 225ba4b1-da3d-4033-b2f4-7094b565e187
+  name: ''
+  world: build_world
+  x: 93
+  y: 65
+  z: 289
+  type: admin
+  object: villager
+  uuid: 7b66494e-4ff4-4ad1-9130-3f94ae8be9f1
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD
+        damage: 4
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG_2
+        amount: 64
+'22':
+  uniqueId: 9845bbe9-6548-45fd-828f-5d667829fe9d
+  name: Shop
+  world: build_world
+  x: 69
+  y: 65
+  z: 268
+  type: admin
+  object: villager
+  uuid: 56271b9c-509c-47e7-8a10-b2c3f7ac5de7
+  prof: NITWIT
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            SILK_TOUCH: 1
+          repair-cost: 500
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+          repair-cost: 500
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+          repair-cost: 500
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LOOT_BONUS_BLOCKS: 1
+          repair-cost: 500
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LOOT_BONUS_BLOCKS: 2
+          repair-cost: 500
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LOOT_BONUS_BLOCKS: 2
+          repair-cost: 500
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LOOT_BONUS_BLOCKS: 2
+          repair-cost: 500
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        damage: 150
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+          repair-cost: 500
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+          repair-cost: 500
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+          repair-cost: 500
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        damage: 150
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+          repair-cost: 500
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        damage: 150
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+          repair-cost: 500
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        damage: 150
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+          repair-cost: 500
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        damage: 150
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+          repair-cost: 500
+'23':
+  uniqueId: 188b6593-7643-4bea-9810-9b5a52f381ba
+  name: Profiteers
+  world: build_world
+  x: 70
+  y: 65
+  z: 268
+  type: admin
+  object: villager
+  uuid: ec83f9a4-0e9e-49a4-81c8-929e62944939
+  prof: NITWIT
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 沒附魔
+'24':
+  uniqueId: 245e66cc-344d-498e-9bae-c831f50cbbb2
+  name: Profiteers
+  world: build_world
+  x: 84
+  y: 76
+  z: 274
+  type: admin
+  object: villager
+  uuid: 8cd6dba5-a1f6-4791-b287-6a0aada7c89a
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 1
+        amount: 64
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 2
+        amount: 64
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 3
+        amount: 64
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 4
+        amount: 64
+'25':
+  uniqueId: 431b6480-28f9-4c12-9d3b-c969dafe3773
+  name: Profiteers
+  world: build_world
+  x: 84
+  y: 76
+  z: 276
+  type: admin
+  object: villager
+  uuid: fb2696ff-0708-4954-8212-4ab2a895d218
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 5
+        amount: 64
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 6
+        amount: 64
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 7
+        amount: 64
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 8
+        amount: 64
+'26':
+  uniqueId: 11754c5d-3710-41fe-af54-34a1d5209fdb
+  name: Profiteers
+  world: build_world
+  x: 85
+  y: 76
+  z: 277
+  type: admin
+  object: villager
+  uuid: 6f92958b-d10d-4f25-b693-516d9f711f5a
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 9
+        amount: 64
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 10
+        amount: 64
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 11
+        amount: 64
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 12
+        amount: 64
+'27':
+  uniqueId: f100b1d9-f856-40d1-a2c4-038fa025513d
+  name: Profiteers
+  world: build_world
+  x: 87
+  y: 76
+  z: 277
+  type: admin
+  object: villager
+  uuid: 623ae837-0bc9-4624-8a54-8331d368ef0e
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 13
+        amount: 64
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 14
+        amount: 64
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 15
+        amount: 64
+'28':
+  uniqueId: 5f964a86-36bf-4903-9d99-bbc1a55f0ed1
+  name: ''
+  world: build_world
+  x: 65
+  y: 76
+  z: 311
+  type: admin
+  object: villager
+  uuid: 588dc4d9-565a-4d9a-b8c3-ecd1767d88fd
+  prof: FARMER
+  recipes: {}
+'29':
+  uniqueId: 0f3cd465-d3f3-4cc9-a1b1-938e124fd725
+  name: ''
+  world: build_world
+  x: 65
+  y: 76
+  z: 313
+  type: admin
+  object: villager
+  uuid: 11ab65f2-300d-44cd-bc05-0f49cc07ecd0
+  prof: FARMER
+  recipes: {}
+'30':
+  uniqueId: 28171bf5-8987-488a-82fb-0c42717d134e
+  name: ''
+  world: build_world
+  x: 62
+  y: 76
+  z: 310
+  type: admin
+  object: villager
+  uuid: 1262017f-7184-46ff-82e8-f5ae2d96f04d
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAPLING
+        amount: 16
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAPLING
+        damage: 1
+        amount: 16
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAPLING
+        damage: 2
+        amount: 16
+'31':
+  uniqueId: 43d03f42-ab6a-49fd-8e93-ba2f155b0af0
+  name: Profiteers
+  world: build_world
+  x: 76
+  y: 76
+  z: 276
+  type: admin
+  object: villager
+  uuid: 88e4bfca-d77d-409b-80f3-a3d7da5166bb
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 14
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 6
+        amount: 64
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 2
+        amount: 64
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 10
+        amount: 64
+'32':
+  uniqueId: b62bcb52-9114-45d0-84a1-b9133cabe855
+  name: Profiteers
+  world: build_world
+  x: 76
+  y: 76
+  z: 274
+  type: admin
+  object: villager
+  uuid: d35dcf2f-5c34-42ab-a473-a71556029d5c
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 3
+        amount: 64
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 9
+        amount: 64
+'33':
+  uniqueId: a196560b-ba39-4edf-abc9-2a7ca9342669
+  name: Profiteers
+  world: build_world
+  x: 72
+  y: 76
+  z: 276
+  type: admin
+  object: villager
+  uuid: 5f448dd4-1841-4f51-8d90-934b2a5e01f2
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 1
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 4
+        amount: 64
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 5
+        amount: 64
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 13
+        amount: 64
+'34':
+  uniqueId: 7f889f20-9f6c-4fa8-b656-83d10d1e4b95
+  name: Profiteers
+  world: build_world
+  x: 72
+  y: 76
+  z: 274
+  type: admin
+  object: villager
+  uuid: 5a50b02b-5447-4d3e-983f-9ebf8d5c72ca
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 8
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 7
+        amount: 64
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 15
+        amount: 64
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 12
+        amount: 64
+'35':
+  uniqueId: fc720aa4-ebe6-445a-a56d-07a4bba25a7a
+  name: Profiteers
+  world: build_world
+  x: 74
+  y: 76
+  z: 277
+  type: admin
+  object: villager
+  uuid: bd8f6dcd-3394-4d2e-be71-b31934b5ac6b
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+'36':
+  uniqueId: d5d30c23-24fa-4ec5-93d3-95a013f82126
+  name: ''
+  world: build_world
+  x: 64
+  y: 76
+  z: 276
+  type: admin
+  object: villager
+  uuid: feba4aea-7c84-422b-b3ff-3a56658f0a5e
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: HARD_CLAY
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: HARD_CLAY
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 9
+        amount: 64
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: HARD_CLAY
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 13
+        amount: 64
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: HARD_CLAY
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 5
+        amount: 64
+'37':
+  uniqueId: d3cbef18-86f3-468c-acea-02d5019fa72f
+  name: ''
+  world: build_world
+  x: 64
+  y: 76
+  z: 274
+  type: admin
+  object: villager
+  uuid: c84a2a79-2d0d-4b28-bd18-76368526020f
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: HARD_CLAY
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 8
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: HARD_CLAY
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 12
+        amount: 64
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: HARD_CLAY
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 7
+        amount: 64
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: HARD_CLAY
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 15
+        amount: 64
+'38':
+  uniqueId: ee414b0c-00cb-410b-b12c-6d05f9863a4b
+  name: ''
+  world: build_world
+  x: 63
+  y: 76
+  z: 277
+  type: admin
+  object: villager
+  uuid: fb35d392-b3c9-4687-b52d-1076b00b4e81
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: HARD_CLAY
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 14
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: HARD_CLAY
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 6
+        amount: 64
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: HARD_CLAY
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 1
+        amount: 64
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: HARD_CLAY
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 4
+        amount: 64
+'39':
+  uniqueId: 5f1ebdfd-325a-421b-b1df-c507503e24ec
+  name: ''
+  world: build_world
+  x: 61
+  y: 76
+  z: 277
+  type: admin
+  object: villager
+  uuid: cc5fdc1f-74bf-4700-be04-be9c7373749c
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: HARD_CLAY
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 11
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: HARD_CLAY
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 3
+        amount: 64
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: HARD_CLAY
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 2
+        amount: 64
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: HARD_CLAY
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 10
+        amount: 64
+'40':
+  uniqueId: 40484fae-59d2-4987-beb5-0063ff4bcef0
+  name: ''
+  world: build_world
+  x: 64
+  y: 76
+  z: 310
+  type: admin
+  object: villager
+  uuid: 750fa457-cd4c-4aa4-93da-45e5a3c033b4
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAPLING
+        damage: 4
+        amount: 16
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAPLING
+        damage: 5
+        amount: 16
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAPLING
+        damage: 3
+        amount: 16
+'41':
+  uniqueId: 2b6e660d-8c8a-410e-9c1b-ea2ba327a7e5
+  name: ''
+  world: build_world
+  x: 75
+  y: 78
+  z: 311
+  type: admin
+  object: villager
+  uuid: 82253040-8ca2-4776-9ff7-8d82dad4d742
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: RED_ROSE
+        amount: 16
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: RED_ROSE
+        damage: 1
+        amount: 16
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: RED_ROSE
+        damage: 2
+        amount: 16
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: RED_ROSE
+        damage: 3
+        amount: 16
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: RED_ROSE
+        damage: 6
+        amount: 16
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: RED_ROSE
+        damage: 7
+        amount: 16
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: RED_ROSE
+        damage: 5
+        amount: 16
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: RED_ROSE
+        damage: 4
+        amount: 16
+'42':
+  uniqueId: 5b4cf56a-a786-45da-af22-2e126095eabc
+  name: OAOO
+  world: build_world
+  x: 73
+  y: 77
+  z: 312
+  type: admin
+  object: villager
+  uuid: 6fd762e4-10c4-44d7-aa9e-98ae49ae83f6
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: YELLOW_FLOWER
+        amount: 16
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DOUBLE_PLANT
+        amount: 16
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: RED_ROSE
+        damage: 8
+        amount: 16
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DOUBLE_PLANT
+        damage: 1
+        amount: 16
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DOUBLE_PLANT
+        damage: 5
+        amount: 16
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DOUBLE_PLANT
+        damage: 4
+        amount: 16
+'43':
+  uniqueId: 024979c9-e080-4a2b-a51d-d2f8ed50b933
+  name: ''
+  world: build_world
+  x: 84
+  y: 76
+  z: 310
+  type: admin
+  object: villager
+  uuid: 6094377e-035d-4638-a973-aacbe2cee079
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKED_BEEF
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 土
+'44':
+  uniqueId: 00eeb36c-c267-4494-a31b-6687d7f31030
+  name: ''
+  world: build_world
+  x: 86
+  y: 76
+  z: 310
+  type: admin
+  object: villager
+  uuid: a7c82918-493b-4e90-a68a-93d749f2f69c
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: EGG
+        amount: 16
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: RAW_FISH
+        damage: 1
+        amount: 32
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKED_BEEF
+        amount: 32
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GRILLED_PORK
+        amount: 32
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKED_MUTTON
+        amount: 32
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: CAKE
+        amount: 32
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MELON
+        amount: 32
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEETROOT
+        amount: 32
+'45':
+  uniqueId: 09f34638-6fbe-491b-a33c-20ac6841b1e5
+  name: ''
+  world: build_world
+  x: 92
+  y: 65
+  z: 295
+  type: admin
+  object: villager
+  uuid: e5a4e87b-49cb-4b10-b0f0-173eb8ef2b85
+  prof: FARMER
+  recipes: {}
+'46':
+  uniqueId: e6931f25-a1d4-4db2-8c41-58bc9d05f6ae
+  name: ''
+  world: build_world
+  x: 92
+  y: 65
+  z: 302
+  type: admin
+  object: villager
+  uuid: a264882d-75bd-433d-b409-4ddf6e5fe72a
+  prof: FARMER
+  recipes: {}
+'47':
+  uniqueId: c0bdcdeb-3b2a-40b4-9862-241ec25f0afd
+  name: ''
+  world: build_world
+  x: 92
+  y: 65
+  z: 309
+  type: admin
+  object: villager
+  uuid: 211c47fc-a5ef-4433-95cd-b37db2d1d112
+  prof: FARMER
+  recipes: {}
+'48':
+  uniqueId: 523b1c81-ba89-4a0c-8b30-e48bda138ad1
+  name: ''
+  world: build_world
+  x: 92
+  y: 65
+  z: 316
+  type: admin
+  object: villager
+  uuid: 3ca6feac-e107-46f0-b5b1-d110e35ed9ca
+  prof: FARMER
+  recipes: {}
+'49':
+  uniqueId: d9f8b094-c9da-4fc9-bbe4-8c0bfae92bf5
+  name: ''
+  world: build_world
+  x: 81
+  y: 93
+  z: 285
+  type: admin
+  object: villager
+  uuid: 10a517f9-6aee-4143-8793-d5af5f45f3a8
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHERRACK
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLOWSTONE
+        amount: 16
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA
+        amount: 4
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SOUL_SAND
+        amount: 16
+'50':
+  uniqueId: 8dcfea7d-f9cc-4dbc-b493-7317780c7524
+  name: ''
+  world: build_world
+  x: 81
+  y: 93
+  z: 294
+  type: admin
+  object: villager
+  uuid: a1aa1de6-03f5-4c40-9aa7-7f6a5c6e7a03
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPUR_BLOCK
+        amount: 16
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPUR_PILLAR
+        amount: 16
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: END_ROD
+        amount: 4
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: CHORUS_FRUIT
+        amount: 32
+'51':
+  uniqueId: db63f523-352e-48ec-9618-e790064f5ddb
+  name: ''
+  world: build_world
+  x: 81
+  y: 93
+  z: 303
+  type: admin
+  object: villager
+  uuid: d30ebf4a-2701-4c62-b48e-ff726fc63b94
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: PRISMARINE
+        amount: 16
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: PRISMARINE
+        damage: 1
+        amount: 16
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: PRISMARINE
+        damage: 2
+        amount: 16
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SEA_LANTERN
+        amount: 4
+'52':
+  uniqueId: aae97de5-0358-4252-9a9d-f544a1921d9b
+  name: ''
+  world: build_world
+  x: 83
+  y: 76
+  z: 311
+  type: admin
+  object: villager
+  uuid: 08e8b1e2-27a6-4626-b90b-566cb5566b2c
+  prof: BLACKSMITH
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 3
+        amount: 32
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: PUMPKIN
+        amount: 32
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: CARROT_ITEM
+        amount: 32
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: POTATO_ITEM
+        amount: 32
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WHEAT
+        amount: 32
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: APPLE
+        amount: 32
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STALK
+        amount: 32
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SUGAR_CANE
+        amount: 32
+'53':
+  uniqueId: 8278a1eb-9bfe-4ea4-8845-8d10b7dc26bf
+  name: yoinshop
+  world: build_world
+  x: 65
+  y: 93
+  z: 294
+  type: admin
+  object: villager
+  uuid: 8b17521d-8a47-401e-b1a9-7ca851124769
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: ELYTRA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            BINDING_CURSE: 1
+          repair-cost: 1
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGbgCA31dPHNLy5hYLi0hpmBE8T1SU0E8pnq8tkY2Bxz80vzSg4YP0sDAQ4GXrhJfom5qQyC6al5qUWZyXq5iRUeqYk5JRlAM/wLUosSSzLz84BWMHAwsOBQycAAAFXilLacAAAA
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 建築幣
+          enchants:
+            MENDING: 1
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: FIREWORK
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          power: 1
+'54':
+  uniqueId: 6ac3e86e-d0e4-400f-b5a8-4eefdc31522e
+  name: ''
+  world: survival_lobby
+  x: -2
+  y: 141
+  z: 27
+  type: admin
+  object: villager
+  uuid: f488b0e9-ef82-432c-ad8a-0deaa2ec44d4
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKIE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 生存幣
+          lore:
+          - 你不會想吃的他發霉了
+          - 除非你窮到剩下錢('●w●')
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKIE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 生存幣
+          lore:
+          - 你不會想吃的他發霉了
+          - 除非你窮到剩下錢('●w●')
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        damage: 1
+        amount: 64
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKIE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 生存幣
+          lore:
+          - 你不會想吃的他發霉了
+          - 除非你窮到剩下錢('●w●')
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        damage: 3
+        amount: 64
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKIE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 生存幣
+          lore:
+          - 你不會想吃的他發霉了
+          - 除非你窮到剩下錢('●w●')
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        damage: 5
+        amount: 64
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKIE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 生存幣
+          lore:
+          - 你不會想吃的他發霉了
+          - 除非你窮到剩下錢('●w●')
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIRT
+        amount: 64
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKIE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 生存幣
+          lore:
+          - 你不會想吃的他發霉了
+          - 除非你窮到剩下錢('●w●')
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAND
+        amount: 64
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKIE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 生存幣
+          lore:
+          - 你不會想吃的他發霉了
+          - 除非你窮到剩下錢('●w●')
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAND
+        damage: 1
+        amount: 64
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKIE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 生存幣
+          lore:
+          - 你不會想吃的他發霉了
+          - 除非你窮到剩下錢('●w●')
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GRAVEL
+        amount: 64
+'55':
+  uniqueId: 262e770c-971c-45b0-b2d8-808425619d02
+  name: ''
+  world: survival_lobby
+  x: -2
+  y: 141
+  z: 31
+  type: admin
+  object: villager
+  uuid: ad30674c-cbb1-4cc3-af21-44f3c9b26c18
+  prof: FARMER
+  recipes: {}
+'56':
+  uniqueId: 293f9b0d-b005-43d3-a1f9-23cf4c2792a4
+  name: ''
+  world: survival_lobby
+  x: -2
+  y: 141
+  z: 33
+  type: admin
+  object: villager
+  uuid: f2bbb381-3acc-47ec-9e92-6b2bec7ac9f9
+  prof: FARMER
+  recipes: {}
+'57':
+  uniqueId: 40c7673d-d6ae-48dc-87ca-eb378e96d37a
+  name: ''
+  world: survival_lobby
+  x: -2
+  y: 141
+  z: 35
+  type: admin
+  object: villager
+  uuid: 2d47f67a-f17b-4fc7-a770-c5a31e2aaf43
+  prof: FARMER
+  recipes: {}
+'58':
+  uniqueId: 7ea64228-9bbb-4a06-b881-d8f64c1a656a
+  name: ''
+  world: survival_lobby
+  x: -2
+  y: 141
+  z: 37
+  type: admin
+  object: villager
+  uuid: df44a0da-b078-46a5-b335-af730113209d
+  prof: FARMER
+  recipes: {}
+'59':
+  uniqueId: e07c9e2f-5329-48d1-bf15-6eaddfe6c2ed
+  name: ''
+  world: survival_lobby
+  x: -2
+  y: 141
+  z: 39
+  type: admin
+  object: villager
+  uuid: ebf4a395-a4ad-44b8-bed9-a6dd6af03a2f
+  prof: FARMER
+  recipes: {}
+'60':
+  uniqueId: 20587072-57e3-4b8c-b526-cd7146edc5fd
+  name: ''
+  world: survival_lobby
+  x: -2
+  y: 141
+  z: 41
+  type: admin
+  object: villager
+  uuid: 6193e6f6-fefe-4acf-9a02-2bbb9368b10c
+  prof: FARMER
+  recipes: {}
+'61':
+  uniqueId: ac48c30d-34a3-46c2-b23a-c6b82b94507a
+  name: ''
+  world: survival_lobby
+  x: -2
+  y: 141
+  z: 29
+  type: admin
+  object: villager
+  uuid: b7157c5c-3185-4887-ad3f-de3177748653
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKIE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 生存幣
+          lore:
+          - 你不會想吃的他發霉了
+          - 除非你窮到剩下錢('●w●')
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKIE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 生存幣
+          lore:
+          - 你不會想吃的他發霉了
+          - 除非你窮到剩下錢('●w●')
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        damage: 1
+        amount: 64
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKIE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 生存幣
+          lore:
+          - 你不會想吃的他發霉了
+          - 除非你窮到剩下錢('●w●')
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        damage: 2
+        amount: 64
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKIE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 生存幣
+          lore:
+          - 你不會想吃的他發霉了
+          - 除非你窮到剩下錢('●w●')
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG_2
+        amount: 64
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKIE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 生存幣
+          lore:
+          - 你不會想吃的他發霉了
+          - 除非你窮到剩下錢('●w●')
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG_2
+        damage: 1
+        amount: 64
+'62':
+  uniqueId: 3f1c2136-097f-4b6a-94f9-d20a9a177e63
+  name: ''
+  world: survival_lobby
+  x: -2
+  y: 141
+  z: 43
+  type: admin
+  object: villager
+  uuid: b20255ff-17f2-458b-8afc-3631c29bcccb
+  prof: FARMER
+  recipes: {}
+'63':
+  uniqueId: 360c2b91-9ae3-4d7a-a884-ba0343852b82
+  name: ''
+  world: survival_lobby
+  x: -11
+  y: 141
+  z: 43
+  type: admin
+  object: villager
+  uuid: 6b5c0b91-10fd-4589-92c6-136b6d3ff541
+  prof: FARMER
+  recipes: {}
+'64':
+  uniqueId: 19fd97cd-c941-43d7-ac14-becdec617523
+  name: ''
+  world: survival_lobby
+  x: -11
+  y: 141
+  z: 41
+  type: admin
+  object: villager
+  uuid: 545caa1b-b301-4ee2-a74c-3b15896373fc
+  prof: FARMER
+  recipes: {}
+'65':
+  uniqueId: 0ff7fc06-7079-4ea9-89bc-048a94082d5a
+  name: ''
+  world: survival_lobby
+  x: -11
+  y: 141
+  z: 39
+  type: admin
+  object: villager
+  uuid: 31e906ff-7d3b-4bff-a194-3a0273f4b69c
+  prof: FARMER
+  recipes: {}
+'66':
+  uniqueId: dbe3926d-ca7f-4f42-a24d-8fad71db954f
+  name: ''
+  world: survival_lobby
+  x: -11
+  y: 141
+  z: 37
+  type: admin
+  object: villager
+  uuid: 7759fb91-187e-42da-bdc7-000db4e7374d
+  prof: FARMER
+  recipes: {}
+'67':
+  uniqueId: 8f1b6e85-074b-4d30-9931-a80340721129
+  name: ''
+  world: survival_lobby
+  x: -11
+  y: 141
+  z: 35
+  type: admin
+  object: villager
+  uuid: f1d87258-acd3-4fbc-9a9b-a5dea6fb46cb
+  prof: FARMER
+  recipes: {}
+'68':
+  uniqueId: 0ed6d1cb-beda-472f-9e2f-86fe5dba910a
+  name: ''
+  world: survival_lobby
+  x: -11
+  y: 141
+  z: 33
+  type: admin
+  object: villager
+  uuid: cf37b2af-a717-4da9-81a8-fe3d1ee6a559
+  prof: FARMER
+  recipes: {}
+'69':
+  uniqueId: c84561b1-6241-4e84-868d-4cdf7919948c
+  name: ''
+  world: survival_lobby
+  x: -11
+  y: 141
+  z: 31
+  type: admin
+  object: villager
+  uuid: faf5959c-077b-474f-a969-1e5084ff6da0
+  prof: FARMER
+  recipes: {}
+'70':
+  uniqueId: 60521eae-6523-4c10-bb44-f112cdda4c15
+  name: ''
+  world: survival_lobby
+  x: -11
+  y: 141
+  z: 29
+  type: admin
+  object: villager
+  uuid: 694afeb0-96f5-4550-ad51-b5d739191418
+  prof: FARMER
+  recipes: {}
+'71':
+  uniqueId: 998d0984-666a-4e87-b042-f37c2efe94b5
+  name: ''
+  world: survival_lobby
+  x: -11
+  y: 141
+  z: 27
+  type: admin
+  object: villager
+  uuid: 95d8ee59-ecd1-46bd-958e-f9539c8d735a
+  prof: FARMER
+  recipes: {}
+'72':
+  uniqueId: 1850ac00-852e-47a5-8b29-c46315856ec3
+  name: ''
+  world: survival_lobby
+  x: -13
+  y: 141
+  z: 27
+  type: admin
+  object: villager
+  uuid: 81bd3c16-a724-4227-ac0a-3ebc0dadb280
+  prof: FARMER
+  recipes: {}
+'73':
+  uniqueId: 9a4ceab0-01ce-408e-aaae-4e3177788260
+  name: ''
+  world: survival_lobby
+  x: -13
+  y: 141
+  z: 29
+  type: admin
+  object: villager
+  uuid: 72a9c825-b4a3-41f8-ac71-6c64f8d2df78
+  prof: FARMER
+  recipes: {}
+'74':
+  uniqueId: 356385b9-b42d-4544-8c91-0229518310ee
+  name: ''
+  world: survival_lobby
+  x: -13
+  y: 141
+  z: 31
+  type: admin
+  object: villager
+  uuid: 489508b0-02a5-4862-887a-034851cb5b2f
+  prof: FARMER
+  recipes: {}
+'75':
+  uniqueId: 82e67a9c-0d7c-439a-b137-0eeece16df4a
+  name: ''
+  world: survival_lobby
+  x: -13
+  y: 141
+  z: 33
+  type: admin
+  object: villager
+  uuid: c69d315d-e004-41a2-a7a4-25c62c4b6946
+  prof: FARMER
+  recipes: {}
+'76':
+  uniqueId: 52f19ebe-2fd1-44f1-9d15-37ac3549abf3
+  name: ''
+  world: survival_lobby
+  x: -13
+  y: 141
+  z: 35
+  type: admin
+  object: villager
+  uuid: dbb3f51a-43bd-4c6f-a6ea-94527e8d8c43
+  prof: FARMER
+  recipes: {}
+'77':
+  uniqueId: 7f54ac49-edbe-4dec-8d7e-7501173e15eb
+  name: ''
+  world: survival_lobby
+  x: -13
+  y: 141
+  z: 37
+  type: admin
+  object: villager
+  uuid: 884323b5-7d1a-45b3-aca9-05a669b998e6
+  prof: FARMER
+  recipes: {}
+'78':
+  uniqueId: 22d32802-67e4-4fac-8e11-d4084a267e15
+  name: ''
+  world: survival_lobby
+  x: -13
+  y: 141
+  z: 39
+  type: admin
+  object: villager
+  uuid: d9f37f42-72b3-4b54-b3ba-0621b3d69eba
+  prof: FARMER
+  recipes: {}
+'79':
+  uniqueId: 01facc43-1c7d-42ce-9765-1fe516cdadc7
+  name: ''
+  world: survival_lobby
+  x: -13
+  y: 141
+  z: 41
+  type: admin
+  object: villager
+  uuid: 42f31a00-9d24-4259-8ab3-10931138c898
+  prof: FARMER
+  recipes: {}
+'80':
+  uniqueId: 2a394c51-c624-4c50-abd9-bc63baff0969
+  name: ''
+  world: survival_lobby
+  x: -13
+  y: 141
+  z: 43
+  type: admin
+  object: villager
+  uuid: dd2803d5-35e2-464f-845b-b78d6b0141d9
+  prof: FARMER
+  recipes: {}
+'81':
+  uniqueId: e380de78-7895-4981-ad1c-c5558277314a
+  name: ''
+  world: survival_lobby
+  x: -22
+  y: 141
+  z: 43
+  type: admin
+  object: villager
+  uuid: 13693db5-bcc4-4e98-a095-95e0c1200a90
+  prof: FARMER
+  recipes: {}
+'82':
+  uniqueId: f26aed6a-8552-449c-a33c-2e1ef8c6cbd8
+  name: ''
+  world: survival_lobby
+  x: -22
+  y: 141
+  z: 41
+  type: admin
+  object: villager
+  uuid: 8bdcb570-eb48-43e4-b84f-ea7eb8fa4857
+  prof: FARMER
+  recipes: {}
+'83':
+  uniqueId: 294c99e0-49c5-403f-9a30-18125fc5216d
+  name: ''
+  world: survival_lobby
+  x: -22
+  y: 141
+  z: 39
+  type: admin
+  object: villager
+  uuid: 008d0a7f-1b54-4eae-acf6-583468a44f9c
+  prof: FARMER
+  recipes: {}
+'84':
+  uniqueId: e2af9622-95a3-4b45-aa57-a0dd509a9947
+  name: ''
+  world: survival_lobby
+  x: -22
+  y: 141
+  z: 37
+  type: admin
+  object: villager
+  uuid: 76ab5007-0d23-4461-afab-407efe82aab9
+  prof: FARMER
+  recipes: {}
+'85':
+  uniqueId: 336bf2f1-875e-423b-8456-4efa8051c923
+  name: ''
+  world: survival_lobby
+  x: -22
+  y: 141
+  z: 35
+  type: admin
+  object: villager
+  uuid: e37cf24d-f46f-45a0-8d1d-637f35ce539d
+  prof: FARMER
+  recipes: {}
+'86':
+  uniqueId: 3c35fa65-2456-4232-ab69-0e6c51fb18a7
+  name: ''
+  world: survival_lobby
+  x: -22
+  y: 141
+  z: 33
+  type: admin
+  object: villager
+  uuid: 965705e9-fefd-41df-9a04-9e604a329dc1
+  prof: FARMER
+  recipes: {}
+'87':
+  uniqueId: 9f27743d-fb83-4a77-b0d1-f93023d555a7
+  name: ''
+  world: survival_lobby
+  x: -22
+  y: 141
+  z: 31
+  type: admin
+  object: villager
+  uuid: d7a2189c-d530-4d74-bb63-8a116947c042
+  prof: FARMER
+  recipes: {}
+'88':
+  uniqueId: f6abf404-00e6-4d4c-a09a-1fdb2ac96494
+  name: ''
+  world: survival_lobby
+  x: -22
+  y: 141
+  z: 29
+  type: admin
+  object: villager
+  uuid: 07a50906-88eb-4177-b16b-5f7b72667ea2
+  prof: FARMER
+  recipes: {}
+'89':
+  uniqueId: f2f1581f-cffa-4697-9cfd-4a9b7e9e4b91
+  name: ''
+  world: survival_lobby
+  x: -22
+  y: 141
+  z: 27
+  type: admin
+  object: villager
+  uuid: 09888f74-e76e-4a6d-943e-6a93e78d6149
+  prof: FARMER
+  recipes: {}
+'90':
+  uniqueId: 5ac6b981-181c-4cc4-bb6d-999d0c0e54c7
+  name: ''
+  world: survival_lobby
+  x: -22
+  y: 141
+  z: 25
+  type: admin
+  object: villager
+  uuid: 4671c967-4564-4e0d-9851-c36d07f44648
+  prof: FARMER
+  recipes: {}
+'91':
+  uniqueId: 0a3c73f1-7bbf-4ec2-b078-dc49a08322bd
+  name: ''
+  world: survival_lobby
+  x: -22
+  y: 141
+  z: 23
+  type: admin
+  object: villager
+  uuid: f29254cd-aa80-46db-867f-4e8e4b152f67
+  prof: FARMER
+  recipes: {}
+'92':
+  uniqueId: cc7dfa91-e4d0-439a-9c3e-8beb09a7ff9b
+  name: ''
+  world: survival_lobby
+  x: -22
+  y: 141
+  z: 21
+  type: admin
+  object: villager
+  uuid: 58e7dd91-0c74-4dbf-96c2-db54ba79e383
+  prof: FARMER
+  recipes: {}

@@ -1,0 +1,22 @@
+lastAccountName: Ghost_yoin
+timestamps:
+  login: 1488975699703
+  logout: 1488976947378
+  lastteleport: 1488552031952
+ipAddress: 219.69.9.224
+lastlocation:
+  world: survival_lobby
+  x: -1.3605005936527665
+  y: 141.0
+  z: 20.850457114602527
+  yaw: 52.291748
+  pitch: -5.1002073
+logoutlocation:
+  world: build_world
+  x: 107.27255383436771
+  y: 84.0
+  z: 325.4655135146518
+  yaw: -349.0371
+  pitch: 14.099916
+afk: false
+money: '-2.13'

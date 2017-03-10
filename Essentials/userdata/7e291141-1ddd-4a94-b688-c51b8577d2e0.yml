@@ -1,0 +1,22 @@
+lastAccountName: ula0809
+timestamps:
+  login: 1488806045835
+  logout: 1488808460375
+  lastteleport: 1488806183421
+ipAddress: 36.227.55.45
+lastlocation:
+  world: survival_lobby
+  x: 15.41276362326098
+  y: 131.0
+  z: 12.66227222806855
+  yaw: 213.30048
+  pitch: 11.550097
+logoutlocation:
+  world: build_world
+  x: 80.45327182927487
+  y: 83.68772865237779
+  z: 304.67471537384233
+  yaw: 179.39178
+  pitch: 30.750006
+money: '0.0'
+afk: false

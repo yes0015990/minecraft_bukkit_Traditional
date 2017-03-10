@@ -1,0 +1,22 @@
+lastAccountName: Austerity5200
+timestamps:
+  login: 1488976032995
+  lastteleport: 1488976087972
+  logout: 1488977057478
+ipAddress: 118.150.51.191
+lastlocation:
+  world: survival_lobby
+  x: -2.0941160843011346
+  y: 141.0
+  z: 20.994948894694094
+  yaw: -132.50443
+  pitch: 28.799877
+logoutlocation:
+  world: build_world
+  x: 86.80172193286613
+  y: 70.0
+  z: 332.5885512659262
+  yaw: -254.54956
+  pitch: 24.599863
+afk: false
+money: '-1.57'

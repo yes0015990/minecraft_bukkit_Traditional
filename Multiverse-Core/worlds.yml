@@ -1,0 +1,212 @@
+worlds:
+  survival_world:
+    seed: -6908588417907162784
+    environment: NORMAL
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: PEACEFUL
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: CREATIVE
+    keepspawninmemory: true
+    spawn:
+      x: -265.85285443538595
+      y: 64.0
+      z: 267.11239307069985
+      pitch: 12.149998
+      yaw: 98.100006
+      world: survival_world
+    autoload: true
+    bedrespawn: true
+  survival_world_nether:
+    seed: -5545552220758640454
+    environment: NETHER
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 8.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 0.0
+      y: 90.0
+      z: 0.0
+      pitch: 0.0
+      yaw: 0.0
+      world: survival_world_nether
+    autoload: true
+    bedrespawn: true
+  survival_world_the_end:
+    seed: -5545552220758640454
+    environment: THE_END
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 0.0
+      y: 61.0
+      z: 0.0
+      pitch: 0.0
+      yaw: 0.0
+      world: survival_world_the_end
+    autoload: true
+    bedrespawn: true
+  survival_lobby:
+    seed: -8261858666343506887
+    environment: NORMAL
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: PEACEFUL
+    animals:
+      spawn: false
+    monsters:
+      spawn: false
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: CREATIVE
+    keepspawninmemory: true
+    spawn:
+      x: 13.872962831553751
+      y: 131.0
+      z: 4.898687960101952
+      pitch: 10.950001
+      yaw: -4.199984
+      world: survival_lobby
+    autoload: true
+    bedrespawn: true
+  lobby:
+    seed: 4875864479908697572
+    environment: NORMAL
+    type: FLAT
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: false
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: PEACEFUL
+    animals:
+      spawn: false
+    monsters:
+      spawn: false
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: CREATIVE
+    keepspawninmemory: true
+    spawn:
+      x: 1154.0
+      y: 4.0
+      z: 717.0
+      pitch: 0.0
+      yaw: 0.0
+      world: lobby
+    autoload: true
+    bedrespawn: true
+  build_world:
+    generator: PlotSquared
+    seed: -1482406616788016194
+    environment: NORMAL
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: PEACEFUL
+    animals:
+      spawn: false
+    monsters:
+      spawn: false
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: CREATIVE
+    keepspawninmemory: true
+    spawn:
+      x: 60.71732035956591
+      y: 65.0
+      z: 245.42269979029751
+      pitch: 18.59959
+      yaw: 263.8441
+      world: build_world
+    autoload: true
+    bedrespawn: true

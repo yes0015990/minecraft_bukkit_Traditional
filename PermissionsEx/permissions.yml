@@ -1,0 +1,168 @@
+groups:
+  player:
+    default: true
+    Prefix: '&4[玩家]&2'
+    permissions:
+    - tt.help
+    - tt.trade
+    - tt.trade.interact
+    - tt.trade.invincible
+    - chestcommands.open.neko.yml
+    - chestcommands.item.neko.yml
+    - essentials.tpa
+    - essentials.worlds.*
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.tpahere
+    - essentials.delhome
+    - essentials.home
+    - essentials.sethome
+    - essentials.pay.*
+    - essentials.balance
+    - essentials.balancetop
+    - essentials.sell.*
+    - authme.player.*
+    - essentials.build.*
+    - essentials.chat.*
+    - essentials.setworth.*
+    - essentials.worth.*
+    - essentials.help.*
+    - essentials.msg.*
+    - essentials.spawn
+    - essentials.nick.*
+    - essentials.rules
+    - essentials.eco.*
+    - griefprevention.claims
+    - griefprevention.buysellclaimblocks
+    - griefprevention.lava
+    - multiverse.access.*
+    - multiverse.portal.access.*
+    - modifyworld.*
+    - treeassist.replant
+    - treeassist.destroy.*
+    - shopkeeper.list.own
+    - shopkeeper.help
+    - shopkeeper.trade
+    - shopkeeper.hire
+    - shopkeeper.player.normal
+    - shopkeeper.player.book
+    - shopkeeper.player.buy
+    - shopkeeper.player.trade
+    - shopkeeper.entity.villager
+    - shopkeeper.entity.witch
+    - shopkeeper.entity.creeper
+    - shopkeeper.sign
+    worlds:
+      lobby:
+        permissions:
+        - multiveres.access.*
+        - multiveres.portal.*
+        - modifyworld.chat
+        survival:
+          permissions:
+          - chestcommands.open.neko.yml
+          - chestcommands.item.neko.yml
+          - essentials.tpa
+          - essentials.worlds.*
+          - essentials.tpaccept
+          - essentials.tpdeny
+          - essentials.tpahere
+          - essentials.delhome
+          - essentials.home
+          - essentials.sethome
+          - essentials.pay.*
+          - essentials.balance
+          - essentials.balancetop
+          - essentials.sell.*
+          - authme.player.*
+          - essentials.build.*
+          - essentials.chat.*
+          - essentials.setworth.*
+          - essentials.worth.*
+          - essentials.help.*
+          - essentials.msg.*
+          - essentials.spawn
+          - essentials.nick.*
+          - essentials.rules
+          - essentials.eco.*
+          - griefprevention.claims
+          - griefprevention.buysellclaimblocks
+          - griefprevention.lava
+          - multiverse.access.*
+          - multiverse.portal.access.*
+          - modifyworld.*
+          - tt.help
+          - tt.trade
+          - tt.trade.interact
+          - tt.trade.invincible
+          - treeassist.destroy.*
+          - treeassist.replant
+          - shopkeeper.list.own
+          - shopkeeper.help
+          - shopkeeper.trade
+          - shopkeeper.hire
+          - shopkeeper.player.normal
+          - shopkeeper.player.book
+          - shopkeeper.player.buy
+          - shopkeeper.player.trade
+          - shopkeeper.entity.villager
+          - shopkeeper.entity.witch
+          - shopkeeper.entity.creeper
+  adminds:
+    Prefix: '&4[管理員]&2'
+    permissions:
+    - essentials.*
+    - griefprevention.*
+    - multiverse.*
+    - authme.*
+    - modifyworld.*
+    - tt.*
+    - signshop.*
+worlds:
+  survival:
+  - survival_world
+  - survival_world_the_end
+  - survival_world_nether
+  - build_world
+  lobby:
+  - lobby
+users:
+  Ellis_Fahregart:
+    group:
+    - player
+  Ghost_yoin:
+    group:
+    - adminds
+  CodeExpresso:
+    group:
+    - player
+  Shoumft1024:
+    group:
+    - player
+  OIPCEO:
+    group:
+    - adminds
+  Yakult1453:
+    group:
+    - player
+  angellin0220:
+    group:
+    - player
+  phantom020389:
+    group:
+    - player
+  OoIcefireoO:
+    group:
+    - player
+  Showmft1024:
+    group:
+    - player
+  tinot211215:
+    group:
+    - player
+  TW_Loser9749_WF:
+    group:
+    - player
+  Sciuridae0603:
+    group:
+    - adminds

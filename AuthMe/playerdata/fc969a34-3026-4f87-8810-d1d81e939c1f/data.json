@@ -1,0 +1,15 @@
+{
+  "group": "",
+  "location": {
+    "world": "survival_lobby",
+    "x": -3.790889277206279,
+    "y": 145.40654737113994,
+    "z": 23.69262830383377,
+    "yaw": 6.5650635,
+    "pitch": 25.759186
+  },
+  "operator": true,
+  "can-fly": true,
+  "walk-speed": 0.19996805,
+  "fly-speed": 0.19996805
+}
