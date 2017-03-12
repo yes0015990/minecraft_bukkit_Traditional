@@ -1,25 +1,25 @@
 # Registration
-reg_msg: '&3Please, register to the server with the command: /register <password> <ConfirmPassword>'
-usage_reg: '&cUsage: /register <password> <ConfirmPassword>'
+reg_msg: '&3請使用註冊指令: /register <你的密碼> <確認密碼>'
+usage_reg: '&c歡迎來到本伺服器 註冊指令為: /register <你的密碼> <確認密碼>'
 reg_only: '&4Only registered users can join the server! Please visit http://example.com to register yourself!'
 kicked_admin_registered: 'An admin just registered you; please log in again'
-registered: '&2Successfully registered!'
-reg_disabled: '&cIn-game registration is disabled!'
-user_regged: '&cYou already have registered this username!'
+registered: '&2註冊成功! 請重新登入!!'
+reg_disabled: '&c註冊被關閉了 請等下次開放註冊!'
+user_regged: '&c你已經在本伺服器註冊過了啦!'
 
-# Password errors on registration
+# word errors on registration
 password_error: '&cPasswords didn''t match, check them again!'
 password_error_nick: '&cYou can''t use your name as password, please choose another one...'
 password_error_unsafe: '&cThe chosen password isn''t safe, please choose another one...'
 password_error_chars: '&4Your password contains illegal characters. Allowed chars: REG_EX'
-pass_len: '&cYour password is too short or too long! Please try with another one!'
+pass_len: '&c你的密碼過長或過短,嘗試別的密碼吧!'
 
 # Login
-usage_log: '&cUsage: /login <password>'
-wrong_pwd: '&cWrong password!'
-login: '&2Successful login!'
-login_msg: '&cPlease, login with the command: /login <password>'
-timeout: '&4Login timeout exceeded, you have been kicked from the server, please try again!'
+usage_log: '&c請登入指令為: /login <你的密碼>'
+wrong_pwd: '&c錯誤的密碼 若忘記密碼請找管理員!'
+login: '&2成功登入了! 請開心遊玩不要吵架!'
+login_msg: '&c請你先登入帳號 指令為: /login <你的密碼>'
+timeout: '&4你花太久時間再登入了! 請再試一次!'
 
 # Errors
 unknown_user: '&cThis user isn''t registered!'
@@ -27,7 +27,7 @@ denied_command: '&cIn order to use this command you must be authenticated!'
 denied_chat: '&cIn order to chat you must be authenticated!'
 not_logged_in: '&cYou''re not logged in!'
 tempban_max_logins: '&cYou have been temporarily banned for failing to log in too many times.'
-max_reg: '&cYou have exceeded the maximum number of registrations (%reg_count/%max_acc %reg_names) for your connection!'
+max_reg: '&c你已超出了最大帳號申請限制,若你沒有註冊過請聯繫管理員  (%reg_count/%max_acc %reg_names) for your connection!'
 no_perm: '&4You don''t have the permission to perform this action!'
 error: '&4An unexpected error occurred, please contact an administrator!'
 unsafe_spawn: '&cYour quit location was unsafe, you have been teleported to the world''s spawnpoint.'
@@ -39,7 +39,7 @@ antibot_auto_enabled: '&4[AntiBotService] AntiBot enabled due to the huge number
 antibot_auto_disabled: '&2[AntiBotService] AntiBot disabled after %m minutes!'
 
 # Other messages
-unregistered: '&cSuccessfully unregistered!'
+unregistered: '&c成功取消註冊!'
 accounts_owned_self: 'You own %count accounts:'
 accounts_owned_other: 'The player %name has %count accounts:'
 two_factor_create: '&2Your secret code is %code. You can scan it from here %url'
@@ -51,14 +51,14 @@ pwd_changed: '&2Password changed successfully!'
 logged_in: '&cYou''re already logged in!'
 logout: '&2Logged out successfully!'
 reload: '&2Configuration and database have been reloaded correctly!'
-usage_changepassword: '&cUsage: /changepassword <oldPassword> <newPassword>'
+usage_changepassword: '&c更改指令: /changepassword 舊密碼 新密碼'
 
 # Session messages
 invalid_session: '&cYour IP has been changed and your session data has expired!'
 valid_session: '&2Logged-in due to Session Reconnection.'
 
 # Error messages when joining
-name_len: '&4Your username is either too short or too long!'
+name_len: '&4你的用戶名過長或過短!'
 regex: '&4Your username contains illegal characters. Allowed chars: REG_EX'
 country_banned: '&4Your country is banned from this server!'
 not_owner_error: 'You are not the owner of this account. Please choose another name!'
