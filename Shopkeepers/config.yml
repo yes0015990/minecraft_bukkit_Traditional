@@ -82,7 +82,7 @@ sign-shop-first-line: "[SHOP]"
 show-nameplates: true
 always-show-nameplates: false
 nameplate-prefix: "&a"
-name-regex: "[A-Za-z0-9 ]{3,25}"
+name-regex: "[A-Za-z0-9u4e00-u9fa5 ]{3,25}"
 naming-of-player-shops-via-item: false
 allow-renaming-of-player-npc-shops: false
 
